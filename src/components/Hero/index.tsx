@@ -2,7 +2,7 @@ import React from "react";
 import clsx from "clsx";
 import Link from "@docusaurus/Link";
 import styles from "./index.module.css";
-import { getDocPath, titleFromSlug } from "../../../util";
+import { getDocPath, titleFromSlug } from "../../../utils";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 
 export const Hero = ({ data, index }) => {

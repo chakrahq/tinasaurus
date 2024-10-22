@@ -1,5 +1,5 @@
 import React from "react";
-import { slugify } from "../../util";
+import { slugify } from "../../utils";
 
 const AdmonitionTemplate = {
   name: "Admonition",

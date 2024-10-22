@@ -22,6 +22,10 @@
           "_template": "doc"
         },
         {
+          "document": "docs/tutorial-basics/markdown-features.mdx",
+          "_template": "doc"
+        },
+        {
           "document": "docs/tutorial-basics/deploy-your-site.mdx",
           "_template": "doc"
         },
